@@ -1,4 +1,4 @@
-## Hi everyone 👋
+## Hi everyone :v:
 
 ### I'm a backend software engineer with some experience in web development, microservices and agile methodologies.
 
