@@ -1,6 +1,4 @@
-## Hello there!
-
-![Hello there GIF](https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp)
+![Hello there!](https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp)
 
 ### I'm a backend software engineer with some experience in web development, microservices and agile methodologies.
 
